@@ -1,2 +1,2 @@
 # dental
-Deep learning for detecting oral imaging among children 
+Deep learning for detecting oral imaging among children
